@@ -1,0 +1,4 @@
+*.css
+*.css.d.ts
+environment.d.ts
+next.config.js
